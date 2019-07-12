@@ -1,4 +1,4 @@
-# Namazuo Bot
+# Namazuo Bot - Discord Bot
 Namazuo Bot（ナマズオbot）は日本語対応のFF14拡張Discord Botです  
 Discord上でアイテムや エオルゼア時間、天気予報、イベントなど様々な情報を確認することができます  
 
