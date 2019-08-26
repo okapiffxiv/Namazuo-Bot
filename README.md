@@ -35,6 +35,9 @@ Discord上でアイテムやギャザクラ、天気予報、イベントなど�
   fashion  … ファッションチェック１００点の情報を表示
 ■FFLogs：FFLogs
   fflogs   … FFLogsの情報を表示
+    ├ fflogs best   … 各層の個人のベストDPSを表示
+    ├ fflogs job    … ジョブ別DPSランキングを表示
+    └ fflogs speed  … Speedrunランキングを表示
 ■Finder：パーティー募集
   finder   … Discord内でパーティー募集をする際に使用
 ■FishingCondition：釣り情報
