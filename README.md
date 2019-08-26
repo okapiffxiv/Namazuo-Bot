@@ -13,50 +13,50 @@ Discord上でアイテムやギャザクラ、天気予報、イベントなど�
 使用できるプレフィックスは `,` `!` `！` です。
 
 ```
-Action
+■Action：アクション
   action    … アクション情報を表示
-Achieve
+■Achieve：アチーブメント
   achieve   … アチーブメント情報を表示
-Adventure
+■Adventure：探検手帳
   adventure … 探検手帳情報を表示
-Buff
+■Buff：バフ
   buff      … バフ・デバフ情報を表示
-ContentFinder
+■ContentFinder：コンテンツファインダー
   cf        … コンテンツ情報を表示
-Craft
+■Craft：クラフター
   craft     … クラフター情報を表示
     └ craft trans … 英語圏のクラフターマクロを日本語マクロへ変換
-Event
+■Event：イベント
   event     … 公式イベント情報を表示
   userevent … ユーザーイベント情報を表示
-Fate
-  fate     … F.A.T.E.情報を表示
-Fashion
+■Fate：FATE
+  fate     … FATE情報を表示
+■Fashion：ファッションチェック
   fashion  … ファッションチェック１００点の情報を表示
-FFLogs
+■FFLogs：FFLogs
   fflogs   … FFLogsの情報を表示
-Finder
+■Finder：パーティー募集
   finder   … Discord内でパーティー募集をする際に使用
-FishingCondition
+■FishingCondition：釣り情報
   fishing  … 釣り情報を編集
-Gather
+■Gather：ギャザラー
   gather   … ギャザラー情報を編集
-Item
+■Item：アイテム
   item     … アイテム情報を表示
-Leve
+■Leve：リーヴ
   leve     … リーヴ情報を表示
-Minion
+■Minion：ミニオン
   minion   … ミニオン情報を表示
-Mob
+■Mob：モブ
   mob      … モブ情報を表示
-Mount
+■Mount：マウント
   mount    … マウント情報を表示
-Note
+■Note：Note
   note     … メモ機能
-NotoriousMonster
+■NotoriousMonster：リスキーモブ
   nm       … リスキーモブ情報を表示
    └ nm tour … モブハンツアー巡回経路を作成
-Other
+■Other：その他
   aether   … 風脈情報を表示
   eureka   … エウレカ情報を表示
   maint    … メンテナンス情報を表示
@@ -68,23 +68,23 @@ Other
   reset    … Weekly、Dailyなど各リセット時間を表示
   weather  … ゲーム内の天気予報を表示
   webhook  … 公式のお知らせ等をDiscordチャンネルに表示するようにする
-Orchestrion
+■Orchestrion：オーケストリオン
   orchestrion … オーケストリオン情報を表示
-Pet
+■Pet：ペットアクション
   pet     … ペットアクション情報を表示
-Profile
+■Profile：プロフィール
   profile … キャラクターのプロフィール情報を表示
   params  … キャラクターのパラメータ情報を表示
   gearset … キャラクターのギアセット情報を表示
   class   … キャラクターのジョブ／クラスのレベルを表示
   mounts  … キャラクターが所持するミニオン・マウントの数を表示
-Quest
+■Quest：クエスト
   quest   … クエスト情報を表示
-Recipe
+■Recipe：レシピ
   recipe  … レシピの中間素材、末端素材の合計値を表示
-TextCommand
+■TextCommand：テキストコマンド
   textcommand … テキストコマンド情報を表示
-Voyager
+■Voyager：ボイジャー（飛空艇・潜水艦）
   voyager     … ボイジャー情報を編集
 ```
 
