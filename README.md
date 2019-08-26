@@ -4,7 +4,7 @@ Discord上でアイテムやギャザクラ、天気予報、イベントなど�
 
 ## 導入方法
 - [Discordに招待](https://discordapp.com/api/oauth2/authorize?client_id=423156211534397461&permissions=1611000912&scope=bot)を押してNamazuo Botを招待  
-- テキストに`!readme`と入力してコマンド説明が表示されれば完了
+- テキストに`!readme`と入力してDiscord Botの概要が表示されれば完了
 
 ## コマンド一覧
 
