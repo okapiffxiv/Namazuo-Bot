@@ -25,6 +25,7 @@ ContentFinder
   cf        … コンテンツ情報を表示
 Craft
   craft     … クラフター情報を表示
+    └ craft trans … 英語圏のクラフターマクロを日本語マクロへ変換
 Event
   event     … 公式イベント情報を表示
   userevent … ユーザーイベント情報を表示
@@ -60,7 +61,7 @@ Other
   eureka   … エウレカ情報を表示
   maint    … メンテナンス情報を表示
   et       … 現在のエオルゼア時間を表示
-  party    … ゲームチャットテキストを `/p` マクロに変換
+  party    … コピーしたチャットテキストを `/p` マクロに変換
   treasure … 宝の地図主催用
   pos      … 指定座標位置にピンを表示した地図画像を作成
   readme   … このDiscord BOTについて表示
