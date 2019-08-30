@@ -87,6 +87,7 @@ Discord上でアイテムやギャザクラ、天気予報、イベントなど�
   quest   … クエスト情報を表示
 ■Recipe：レシピ
   recipe  … レシピの中間素材、末端素材の合計値を表示
+    └recipe search  … キーワードアイテムを使ったレシピを検索
 ■TextCommand：テキストコマンド
   textcommand … テキストコマンド情報を表示
 ■Voyager：ボイジャー（飛空艇・潜水艦）
