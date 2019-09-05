@@ -88,6 +88,8 @@ Discord上でアイテムやギャザクラ、天気予報、イベントなど�
 ■Recipe：レシピ
   recipe  … レシピの中間素材、末端素材の合計値を表示
     └recipe search  … キーワードアイテムを使ったレシピを検索
+■Schedule：スケジュール管理
+  schedule  … スケジュール調整画面を表示
 ■TextCommand：テキストコマンド
   textcommand … テキストコマンド情報を表示
 ■Trade：交換できるアイテム
